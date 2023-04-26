@@ -24,6 +24,7 @@ nav{
     font-weight: 400;
     font-size: 20px;
     margin-left: 357px;
+    font-family: Nerko One;
      
 }
 
@@ -57,16 +58,20 @@ article{
     font-size: 48px;
     font-weight: 500;
     margin-bottom: 60px;
+    font-family: Poppins;
 }
 
 .p1{
     margin-bottom: 52px;
     font-size: 20px;
     font-weight: 400;
+    font-family: Nerko One;
 }
 .p2{
     font-size: 20px;
     font-weight: 400;
+    font-family: Nerko One;
+   
 
 }
 
@@ -97,16 +102,43 @@ margin-left: 110px;
 
 .heading2{
     font-size: 32px;
-    fontblock-weight: 500;
+    font-weight: 500;
+    font-family: Poppins;
     
 }
 
 .txt1{
     font-size: 18px;
     font-weight: 400;
+    font-family: Poppins;
+  
 }
 .button2{
     margin-top: 56px;
 }
 
+/* section2 */
+.bigbox{
+    margin:  200px 130px;
+}
+
+.heading3{
+font-family: Poppins;
+font-size: 48px;
+font-weight: 500;
+text-align: left;
+
+}
+.text{
+    font-family: Poppins;
+font-size: 24px;
+font-weight: 400;
+
+
+}
+.text2{
+    font-family: Poppins;
+font-size: 24px;
+font-weight: 400;
+}
 
