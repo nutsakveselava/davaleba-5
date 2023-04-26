@@ -1,0 +1,43 @@
+/* header */
+header{
+    margin: 0 auto;
+    width: 1440px;
+    background-color:  #2A9D8F;
+    ;
+    padding: 38px 130px;
+    
+}
+
+.logo{
+    vertical-align: middle;
+   
+}
+
+/* nav. bar */
+nav{
+    display: inline-block;
+    vertical-align: middle;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    margin-left: 357px;
+     
+}
+
+li{
+
+ display: inline-block;
+color:  #FFFFFF;;
+    
+    
+
+}
+.post{
+   margin-inline: 51px;
+}
+
+button{
+    margin-left: 357px;
+    vertical-align: middle;
+    
+}
