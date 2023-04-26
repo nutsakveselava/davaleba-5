@@ -24,22 +24,28 @@ nav{
     font-weight: 400;
     font-size: 20px;
     margin-left: 357px;
-    font-family: Nerko One;
+    font-family: 'Nerko One', cursive;
      
 }
 
-li{
 
- display: inline-block;
-color:  #FFFFFF;;
+.li1{
+
+ display: inline-block
+ color:  #FFFFFF;;
     
     
 
 }
-.post{
+.li2{
    margin-inline: 51px;
+   display: inline-block
+ color:  #FFFFFF;;
 }
-
+.li3{
+    display: inline-block
+ color:  #FFFFFF;;
+}
 button{
     margin-left: 357px;
     vertical-align: middle;
@@ -58,19 +64,19 @@ article{
     font-size: 48px;
     font-weight: 500;
     margin-bottom: 60px;
-    font-family: Poppins;
+    font-family: 'Poppins', sans-serif;
 }
 
 .p1{
     margin-bottom: 52px;
     font-size: 20px;
     font-weight: 400;
-    font-family: Nerko One;
+    font-family: 'Nerko One', cursive;
 }
 .p2{
     font-size: 20px;
     font-weight: 400;
-    font-family: Nerko One;
+    font-family: 'Nerko One', cursive;
    
 
 }
@@ -103,14 +109,13 @@ margin-left: 110px;
 .heading2{
     font-size: 32px;
     font-weight: 500;
-    font-family: Poppins;
-    
+    font-family: 'Poppins', sans-serif;    
 }
 
 .txt1{
     font-size: 18px;
     font-weight: 400;
-    font-family: Poppins;
+    font-family: 'Poppins', sans-serif;
   
 }
 .button2{
@@ -119,26 +124,67 @@ margin-left: 110px;
 
 /* section2 */
 .bigbox{
+    width: 1180px;
     margin:  200px 130px;
 }
 
 .heading3{
-font-family: Poppins;
+    font-family: 'Poppins', sans-serif;
 font-size: 48px;
 font-weight: 500;
 text-align: left;
 
 }
 .text{
-    font-family: Poppins;
+    font-family: 'Poppins', sans-serif;
 font-size: 24px;
 font-weight: 400;
 
 
 }
 .text2{
-    font-family: Poppins;
+    font-family: 'Poppins', sans-serif;
 font-size: 24px;
 font-weight: 400;
 }
+
+/* footer */
+footer{
+width: 1440px;
+    margin: 0 auto;
+    background-color: #2A9D8F;
+    ;
+
+}
+.logoo{
+    padding: 133px 680px 220px 174px;
+
+}
+.box23{
+    display: inline-block;
+    margin-left: 634px;
+}
+.box24{
+    display: inline-block;
+}
+h3{
+    font-family: 'Poppins', sans-serif;
+font-size: 20px;
+font-weight: 500;
+color:  #FFFFFF;
+margin-top: 90px
+;
+}
+
+li{
+    font-family: 'Poppins', sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    color: #FFFFFF;
+    ;
+}
+.box25{
+    display: inline-block;
+}
+
 
